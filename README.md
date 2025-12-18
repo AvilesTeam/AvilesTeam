@@ -5,14 +5,15 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-💡 &nbsp; Soy estudiante de Ingeniería de Sistemas (9no ciclo) en Perú, con enfoque en desarrollo Full Stack.\
-🎓 &nbsp; Tengo experiencia trabajando con Angular, Ionic y Firebase, desarrollando aplicaciones web y móviles, especialmente en proyectos como apps de barbería y aplicaciones médicas. .\
+💡 &nbsp;Soy estudiante de Ingeniería de Sistemas (9.º ciclo) en Perú, con enfoque en desarrollo Full Stack.\
+🎓 &nbsp;Tengo experiencia trabajando con Angular, Ionic y Firebase, desarrollando aplicaciones web y móviles, especialmente en proyectos como apps de barbería y aplicaciones médicas.\
 🌱 &nbsp;Actualmente estoy fortaleciendo mis conocimientos en Angular avanzado, Ionic, Flutter, Firebase Authentication, control de roles y diseño UI/UX.\
-✍️ &nbsp; Me interesa crear soluciones prácticas, modernas y centradas en el usuario.\
-⚽ &nbsp;En mi tiempo libre practico deportes y artes marciales, veo anime y k-dramas, juego videojuegos y sigo aprendiendo nuevas tecnologías.\
-💬 &nbsp;Puedes contactarme a mi numero de +51 928890376.\
-✉️ &nbsp;Puedes encontrarme por correo como marceloportilla2720@gmail.com! Tratare de responderte cuando pueda.\
-📄 &nbsp;Siempre abierto a nuevas ideas de mejora, apoyame y dime que mejorar, gracias!
+✍️ &nbsp;Me interesa crear soluciones prácticas, modernas y centradas en el usuario.\
+⚽ &nbsp;En mi tiempo libre practico deportes y artes marciales, veo anime y k-dramas, juego videojuegos y continúo aprendiendo nuevas tecnologías.\
+💬 &nbsp;Puedes contactarme al número **+51 928 890 376**.\
+✉️ &nbsp;También puedes escribirme al correo **marceloportilla2720@gmail.com**. Trataré de responderte cuando me sea posible.\
+📄 &nbsp;Siempre estoy abierto a nuevas ideas de mejora; apóyame con tus sugerencias y comentarios. ¡Gracias!
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
