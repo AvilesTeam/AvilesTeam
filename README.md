@@ -1,3 +1,4 @@
+![Marcelo Portilla Banner](https://github.com/AvilesTeam/AvilesTeam/blob/main/banner_me.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Marcelo Portilla Aviles</h2>
 
